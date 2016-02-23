@@ -7,3 +7,5 @@ Api for airports and countries https://api.ryanair.com/aggregate/3/common?embedd
 
 Algorythm http://www.vogella.com/tutorials/JavaAlgorithmsDijkstra/article.html
 
+Better algorythm http://stackoverflow.com/questions/16859624/find-the-shortest-path-in-a-graph-with-dynamic-weight
+
