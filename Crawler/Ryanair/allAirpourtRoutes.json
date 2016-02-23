@@ -1,0 +1,3800 @@
+{
+    "airports": [
+        {
+            "iataCode": "PMF",
+            "routes": [
+                "STN",
+                "CAG",
+                "TPS"
+			]
+        },
+        {
+            "iataCode": "TRS",
+            "routes": [
+                "VLC",
+                "STN",
+                "BRI",
+                "TPS"
+			]
+        },
+        {
+            "iataCode": "ZAD",
+            "routes": [
+                "STN",
+                "HHN",
+                "MRS",
+                "NRN",
+                "SXF",
+                "CRL",
+                "MAN",
+                "BVA",
+                "GOT",
+                "NYO",
+                "RYG",
+                "FKB",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "TRN",
+            "routes": [
+                "VLC",
+                "STN",
+                "SXF",
+                "MLA",
+                "CRL",
+                "BRI",
+                "CIY",
+                "PMO",
+                "CTA",
+                "BCN",
+                "EIN",
+                "IBZ",
+                "TPS",
+                "DUB",
+                "BDS"
+			]
+        },
+        {
+            "iataCode": "LGW",
+            "routes": [
+                "SVQ",
+                "ORK",
+                "KUN",
+                "SNN",
+                "DUB",
+                "BFS"
+            ]
+        },
+        {
+            "iataCode": "LEI",
+            "routes": [
+                "CRL",
+                "STN",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "SDR",
+            "routes": [
+                "STN",
+                "EDI",
+                "NRN",
+                "CRL",
+                "BGY",
+                "BCN",
+                "AGP",
+                "TFS",
+                "CIA",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "CIA",
+            "routes": [
+                "CRV",
+                "KRK",
+                "CRL",
+                "PMI",
+                "AGP",
+                "NYO",
+                "WRO",
+                "DUB",
+                "STN",
+                "OTP",
+                "NRN",
+                "AHO",
+                "RAK",
+                "SKG",
+                "EIN",
+                "SDR",
+                "FKB",
+                "PFO",
+                "RBA",
+                "GDN",
+                "VLC",
+                "HHN",
+                "BTS",
+                "BLL",
+                "POZ",
+                "MAN",
+                "WMI",
+                "MAD",
+                "BVA",
+                "GOT",
+                "CGN",
+                "SOF",
+                "IBZ",
+                "NUE",
+                "TPS",
+                "BUD",
+                "OPO",
+                "EDI",
+                "PRG",
+                "SXF",
+                "MLA",
+                "CPH",
+                "ALC",
+                "ATH",
+                "LIS",
+                "PIK",
+                "CAG",
+                "EMA",
+                "BOD",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "NCL",
+            "routes": [
+                "AGP",
+                "ALC",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "NUE",
+            "routes": [
+                "STN",
+                "AGP",
+                "MLA",
+                "CIA",
+                "MAN",
+                "ALC",
+                "BGY",
+                "BUD"
+			]
+        },
+        {
+            "iataCode": "BSL",
+            "routes": [
+                "STN",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "RJK",
+            "routes": [
+                "STN",
+                "NYO",
+                "RYG",
+                "CRL"
+			]
+        },
+        {
+            "iataCode": "AMS",
+            "routes": [
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "LRH",
+            "routes": [
+                "STN",
+                "OPO",
+                "CRL",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "DTM",
+            "routes": [
+                "STN",
+                "OPO",
+                "PMI",
+                "AGP",
+                "AHO",
+                "KRK"
+			]
+        },
+        {
+            "iataCode": "RIX",
+            "routes": [
+                "STN",
+                "HHN",
+                "LBA",
+                "SXF",
+                "CRL",
+                "GLA",
+                "MAN",
+                "BRE",
+                "BGY",
+                "CGN",
+                "RYG",
+                "EMA",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "ORK",
+            "routes": [
+                "STN",
+                "LPL",
+                "GRO",
+                "REU",
+                "LPA",
+                "LGW",
+                "ALC",
+                "FAO",
+                "BGY",
+                "PMI",
+                "AGP",
+                "CCF",
+                "ACE",
+                "TFS",
+                "BOD",
+                "WRO",
+                "GDN"
+			]
+        },
+        {
+            "iataCode": "AAR",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "JMK",
+            "routes": [
+                "ATH"
+			]
+        },
+        {
+            "iataCode": "BLQ",
+            "routes": [
+                "KRK",
+                "CRL",
+                "VGO",
+                "PMI",
+                "AGP",
+                "RHO",
+                "WRO",
+                "DUB",
+                "STN",
+                "OTP",
+                "NRN",
+                "AHO",
+                "BRS",
+                "BRI",
+                "PMO",
+                "SKG",
+                "CTA",
+                "BCN",
+                "SUF",
+                "TFS",
+                "VLC",
+                "SVQ",
+                "LPA",
+                "MAN",
+                "WMI",
+                "MAD",
+                "BVA",
+                "ACE",
+                "IBZ",
+                "TPS",
+                "BDS",
+                "OPO",
+                "CHQ",
+                "EDI",
+                "SXF",
+                "MLA",
+                "CPH",
+                "KGS",
+                "ALC",
+                "ATH",
+                "CAG",
+                "BOD"
+			]
+        },
+        {
+            "iataCode": "BOD",
+            "routes": [
+                "STN",
+                "SVQ",
+                "OPO",
+                "EDI",
+                "BLQ",
+                "ORK",
+                "BRS",
+                "CRL",
+                "CIA",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "BES",
+            "routes": [
+                "MRS"
+			]
+        },
+        {
+            "iataCode": "VGO",
+            "routes": [
+                "BCN",
+                "BLQ",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "HAM",
+            "routes": [
+                "STN",
+                "OPO",
+                "BRU",
+                "LPA",
+                "MAN",
+                "ALC",
+                "LIS",
+                "BGY",
+                "MAD",
+                "BCN",
+                "PMI",
+                "AGP",
+                "SOF",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "KRK",
+            "routes": [
+                "BLQ",
+                "LPL",
+                "GRO",
+                "CRL",
+                "DTM",
+                "LPA",
+                "MAN",
+                "BGY",
+                "MAD",
+                "BVA",
+                "PMI",
+                "AGP",
+                "NYO",
+                "RYG",
+                "TPS",
+                "VDA",
+                "SNN",
+                "DUB",
+                "BHX",
+                "STN",
+                "LBA",
+                "EDI",
+                "BRS",
+                "MLA",
+                "KGS",
+                "ALC",
+                "CAG",
+                "EIN",
+                "TFS",
+                "PSA",
+                "CIA",
+                "PFO",
+                "EMA",
+                "GDN"
+			]
+        },
+        {
+            "iataCode": "CRV",
+            "routes": [
+                "PSA",
+                "CIA",
+                "BGY",
+                "FCO"
+			]
+        },
+        {
+            "iataCode": "MXP",
+            "routes": [
+                "STN",
+                "SVQ",
+                "OTP",
+                "BRU",
+                "LPA",
+                "CIY",
+                "CTA",
+                "SOF"
+			]
+        },
+        {
+            "iataCode": "VLC",
+            "routes": [
+                "HHN",
+                "BLQ",
+                "LPA",
+                "CRL",
+                "MAN",
+                "BGY",
+                "MAH",
+                "CRA",
+                "BVA",
+                "PMI",
+                "CGN",
+                "IBZ",
+                "DUB",
+                "STN",
+                "OPO",
+                "NRN",
+                "BRU",
+                "SXF",
+                "SCQ",
+                "BRI",
+                "TSF",
+                "TFS",
+                "PSA",
+                "CIA",
+                "EMA",
+                "TRS",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "RHO",
+            "routes": [
+                "STN",
+                "NRN",
+                "BLQ",
+                "LPL",
+                "CRL",
+                "ATH",
+                "BGY",
+                "NYO",
+                "KUN",
+                "PSA",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "BVE",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "CRA",
+            "routes": [
+                "VLC"
+			]
+        },
+        {
+            "iataCode": "BTS",
+            "routes": [
+                "LPL",
+                "LTN",
+                "GRO",
+                "CRL",
+                "MAN",
+                "BGY",
+                "MAD",
+                "BVA",
+                "PMI",
+                "AGP",
+                "TPS",
+                "VDA",
+                "DUB",
+                "CFU",
+                "BHX",
+                "STN",
+                "EDI",
+                "AHO",
+                "BRU",
+                "SXF",
+                "ATH",
+                "CIA"
+			]
+        },
+        {
+            "iataCode": "VST",
+            "routes": [
+                "STN",
+                "AGP",
+                "ALC"
+			]
+        },
+        {
+            "iataCode": "CGN",
+            "routes": [
+                "VLC",
+                "LPA",
+                "WMI",
+                "BGY",
+                "MAD",
+                "PMI",
+                "AGP",
+                "SOF",
+                "DUB",
+                "CFU",
+                "STN",
+                "OPO",
+                "SXF",
+                "RIX",
+                "MLA",
+                "CPH",
+                "ALC",
+                "FAO",
+                "BCN",
+                "TFS",
+                "CIA"
+			]
+        },
+        {
+            "iataCode": "BRU",
+            "routes": [
+                "VLC",
+                "BTS",
+                "FCO",
+                "MAD",
+                "PMI",
+                "AGP",
+                "IBZ",
+                "DUB",
+                "OPO",
+                "MXP",
+                "SXF",
+                "MLA",
+                "ALC",
+                "LIS",
+                "HAM",
+                "BCN",
+                "LCA",
+                "TSF",
+                "VRN"
+			]
+        },
+        {
+            "iataCode": "AOI",
+            "routes": [
+                "STN",
+                "NRN",
+                "CRL",
+                "TPS"
+			]
+        },
+        {
+            "iataCode": "FSC",
+            "routes": [
+                "BVA",
+                "CRL"
+			]
+        },
+        {
+            "iataCode": "AGA",
+            "routes": [
+                "CRL",
+                "NRN"
+			]
+        },
+        {
+            "iataCode": "PSR",
+            "routes": [
+                "BVA",
+                "STN",
+                "HHN",
+                "NRN",
+                "GRO",
+                "CRL",
+                "BGY"
+			]
+        },
+        {
+            "iataCode": "FMM",
+            "routes": [
+                "STN",
+                "OPO",
+                "CHQ",
+                "AHO",
+                "GRO",
+                "ALC",
+                "FAO",
+                "PMO",
+                "PMI",
+                "AGP",
+                "TFS",
+                "SNN",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "SKG",
+            "routes": [
+                "HHN",
+                "BLQ",
+                "GRO",
+                "CRL",
+                "WMI",
+                "BGY",
+                "BVA",
+                "NYO",
+                "RYG",
+                "STN",
+                "CHQ",
+                "NRN",
+                "SXF",
+                "BRE",
+                "ATH",
+                "FKB",
+                "CIA",
+                "PFO"
+			]
+        },
+        {
+            "iataCode": "GOA",
+            "routes": [
+                "STN",
+                "BRI",
+                "TPS"
+			]
+        },
+        {
+            "iataCode": "TFS",
+            "routes": [
+                "ORK",
+                "LTN",
+                "KRK",
+                "CRL",
+                "BGY",
+                "NYO",
+                "RYG",
+                "WRO",
+                "DUB",
+                "BHX",
+                "STN",
+                "NRN",
+                "BRS",
+                "SCQ",
+                "BRE",
+                "BCN",
+                "EIN",
+                "SDR",
+                "FKB",
+                "LNZ",
+                "VLC",
+                "SVQ",
+                "HHN",
+                "BLQ",
+                "LPL",
+                "MAN",
+                "WMI",
+                "MAD",
+                "BVA",
+                "CGN",
+                "FMM",
+                "CWL",
+                "SNN",
+                "OPO",
+                "LBA",
+                "EDI",
+                "SXF",
+                "CPH",
+                "PIK",
+                "TSF",
+                "NOC",
+                "PSA",
+                "BOH",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "HHN",
+            "routes": [
+                "GRO",
+                "TSR",
+                "CIY",
+                "BGY",
+                "KIR",
+                "PSR",
+                "PMI",
+                "AGP",
+                "DUB",
+                "STN",
+                "MPL",
+                "AHO",
+                "RIX",
+                "SCQ",
+                "ZAD",
+                "RAK",
+                "BRI",
+                "NQY",
+                "FAO",
+                "PUY",
+                "SKG",
+                "SUF",
+                "TFS",
+                "VLC",
+                "LPA",
+                "ACE",
+                "IBZ",
+                "NDR",
+                "TPS",
+                "CFU",
+                "OPO",
+                "CHQ",
+                "EDI",
+                "REU",
+                "FEZ",
+                "KGS",
+                "ALC",
+                "LIS",
+                "CAG",
+                "TSF",
+                "XRY",
+                "PSA",
+                "CIA",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "PSA",
+            "routes": [
+                "EFL",
+                "CRV",
+                "KRK",
+                "GRO",
+                "CRL",
+                "CIY",
+                "NYO",
+                "RHO",
+                "DUB",
+                "STN",
+                "NRN",
+                "AHO",
+                "RAK",
+                "BRI",
+                "PMO",
+                "CTA",
+                "EIN",
+                "SUF",
+                "TFS",
+                "GDN",
+                "VLC",
+                "SVQ",
+                "HHN",
+                "LPL",
+                "BLL",
+                "LPA",
+                "WMI",
+                "MAD",
+                "BVA",
+                "GOT",
+                "SOF",
+                "IBZ",
+                "TPS",
+                "FUE",
+                "BUD",
+                "BDS",
+                "CFU",
+                "LBA",
+                "CHQ",
+                "EDI",
+                "SXF",
+                "MLA",
+                "FEZ",
+                "KGS",
+                "LIS",
+                "PIK",
+                "CAG",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "LDE",
+            "routes": [
+                "STN",
+                "BGY"
+			]
+        },
+        {
+            "iataCode": "EBU",
+            "routes": [
+                "STN",
+                "OPO",
+                "FEZ"
+			]
+        },
+        {
+            "iataCode": "TSR",
+            "routes": [
+                "STN",
+                "HHN",
+                "NRN",
+                "SXF",
+                "CRL",
+                "BGY"
+			]
+        },
+        {
+            "iataCode": "FUE",
+            "routes": [
+                "STN",
+                "LBA",
+                "NRN",
+                "EDI",
+                "LPL",
+                "LTN",
+                "SXF",
+                "CRL",
+                "MAN",
+                "BRE",
+                "WMI",
+                "BGY",
+                "PIK",
+                "MAD",
+                "BCN",
+                "PSA",
+                "EMA",
+                "SNN",
+                "DUB",
+                "BHX"
+			]
+        },
+        {
+            "iataCode": "LRT",
+            "routes": [
+                "OPO"
+			]
+        },
+        {
+            "iataCode": "FAO",
+            "routes": [
+                "HHN",
+                "LPL",
+                "ORK",
+                "CRL",
+                "MAN",
+                "KIR",
+                "BVA",
+                "CGN",
+                "FMM",
+                "NYO",
+                "LDY",
+                "RYG",
+                "SNN",
+                "DUB",
+                "BHX",
+                "STN",
+                "OPO",
+                "LBA",
+                "NRN",
+                "EDI",
+                "BRS",
+                "BRE",
+                "PIK",
+                "EIN",
+                "NOC",
+                "BOH",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "LPL",
+            "routes": [
+                "ORK",
+                "KRK",
+                "BTS",
+                "LPA",
+                "POZ",
+                "WMI",
+                "PMI",
+                "AGP",
+                "LIG",
+                "CCF",
+                "ACE",
+                "LDY",
+                "EGC",
+                "IBZ",
+                "RHO",
+                "FUE",
+                "SZZ",
+                "WRO",
+                "DUB",
+                "OPO",
+                "TRF",
+                "FNI",
+                "REU",
+                "MLA",
+                "KGS",
+                "ALC",
+                "FAO",
+                "BCN",
+                "TFS",
+                "NOC",
+                "PSA",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "AGP",
+            "routes": [
+                "ORK",
+                "KRK",
+                "CRL",
+                "DTM",
+                "BGY",
+                "PMI",
+                "NYO",
+                "RYG",
+                "WRO",
+                "DUB",
+                "BHX",
+                "STN",
+                "NRN",
+                "BRU",
+                "BRS",
+                "SCQ",
+                "BRE",
+                "BCN",
+                "EIN",
+                "SDR",
+                "FKB",
+                "MRS",
+                "HHN",
+                "BLQ",
+                "LPL",
+                "BTS",
+                "BLL",
+                "MAN",
+                "NCL",
+                "VST",
+                "WMI",
+                "FCO",
+                "BVA",
+                "GOT",
+                "CGN",
+                "FMM",
+                "IBZ",
+                "NUE",
+                "SNN",
+                "BUD",
+                "LBA",
+                "EDI",
+                "TRF",
+                "SXF",
+                "CPH",
+                "HAU",
+                "HAM",
+                "PIK",
+                "TSF",
+                "NOC",
+                "BOH",
+                "CIA",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "CIY",
+            "routes": [
+                "STN",
+                "HHN",
+                "NRN",
+                "MXP",
+                "CRL",
+                "BGY",
+                "FCO",
+                "PSA",
+                "DUB",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "OSR",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "BFS",
+            "routes": [
+                "LGW"
+			]
+        },
+        {
+            "iataCode": "CTA",
+            "routes": [
+                "MRS",
+                "BLQ",
+                "MXP",
+                "BGY",
+                "FCO",
+                "MAD",
+                "EIN",
+                "TSF",
+                "PSA",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "ACE",
+            "routes": [
+                "SVQ",
+                "HHN",
+                "BLQ",
+                "LPL",
+                "ORK",
+                "LTN",
+                "CRL",
+                "MAN",
+                "BGY",
+                "FCO",
+                "MAD",
+                "BVA",
+                "VLL",
+                "SNN",
+                "DUB",
+                "BHX",
+                "STN",
+                "LBA",
+                "NRN",
+                "EDI",
+                "BRS",
+                "SCQ",
+                "SXF",
+                "PIK",
+                "BCN",
+                "EIN",
+                "NOC",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "SNN",
+            "routes": [
+                "STN",
+                "KRK",
+                "SXF",
+                "LGW",
+                "MAN",
+                "ALC",
+                "WMI",
+                "FAO",
+                "FCO",
+                "BVA",
+                "PMI",
+                "AGP",
+                "FMM",
+                "ACE",
+                "KUN",
+                "TFS",
+                "FUE",
+                "WRO"
+			]
+        },
+        {
+            "iataCode": "DNR",
+            "routes": [
+                "STN",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "NRN",
+            "routes": [
+                "VXO",
+                "GRO",
+                "TSR",
+                "CIY",
+                "BGY",
+                "PSR",
+                "PMI",
+                "AGP",
+                "NYO",
+                "AGA",
+                "AOI",
+                "RHO",
+                "TLL",
+                "STN",
+                "ZAD",
+                "RAK",
+                "BRI",
+                "BZR",
+                "FAO",
+                "PMO",
+                "BZG",
+                "SKG",
+                "SUF",
+                "TFS",
+                "SDR",
+                "OUD",
+                "VLC",
+                "BLQ",
+                "LPA",
+                "ACE",
+                "IBZ",
+                "FUE",
+                "CFU",
+                "OPO",
+                "CHQ",
+                "EDI",
+                "MLA",
+                "FEZ",
+                "ALC",
+                "CAG",
+                "PSA",
+                "CIA"
+			]
+        },
+        {
+            "iataCode": "TMP",
+            "routes": [
+                "BRE",
+                "BUD"
+			]
+        },
+        {
+            "iataCode": "HAU",
+            "routes": [
+                "STN",
+                "AGP",
+                "ALC"
+			]
+        },
+        {
+            "iataCode": "CFU",
+            "routes": [
+                "HHN",
+                "BTS",
+                "CRL",
+                "POZ",
+                "MAN",
+                "WMI",
+                "BGY",
+                "FCO",
+                "CGN",
+                "BUD",
+                "BHX",
+                "STN",
+                "KTW",
+                "LBA",
+                "EDI",
+                "NRN",
+                "RZE",
+                "ATH",
+                "PIK",
+                "EIN",
+                "TSF",
+                "PSA",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "TPS",
+            "routes": [
+                "HHN",
+                "BLQ",
+                "GRO",
+                "KRK",
+                "BTS",
+                "CRL",
+                "WMI",
+                "BGY",
+                "FCO",
+                "PMF",
+                "AOI",
+                "GOA",
+                "MLA",
+                "PEG",
+                "CAG",
+                "EIN",
+                "TSF",
+                "KUN",
+                "FKB",
+                "PSA",
+                "CIA",
+                "TRS",
+                "CUF",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "DLE",
+            "routes": [
+                "OPO",
+                "FEZ",
+                "RAK"
+			]
+        },
+        {
+            "iataCode": "PMO",
+            "routes": [
+                "STN",
+                "MRS",
+                "NRN",
+                "BLQ",
+                "SXF",
+                "BGY",
+                "FCO",
+                "MAD",
+                "BVA",
+                "TSF",
+                "FMM",
+                "PSA",
+                "DUB",
+                "VRN",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "ATH",
+            "routes": [
+                "BLQ",
+                "JTR",
+                "BTS",
+                "CRL",
+                "WMI",
+                "BGY",
+                "SOF",
+                "JMK",
+                "RHO",
+                "BUD",
+                "DUB",
+                "CFU",
+                "STN",
+                "OTP",
+                "CHQ",
+                "SXF",
+                "MLA",
+                "SKG",
+                "CIA",
+                "PFO"
+			]
+        },
+        {
+            "iataCode": "NYO",
+            "routes": [
+                "KRK",
+                "LPA",
+                "CRL",
+                "WMI",
+                "BGY",
+                "BVA",
+                "PMI",
+                "AGP",
+                "BIQ",
+                "RHO",
+                "BDS",
+                "STN",
+                "CHQ",
+                "NRN",
+                "MLA",
+                "ZAD",
+                "CPH",
+                "BZR",
+                "ALC",
+                "BRE",
+                "FAO",
+                "SKG",
+                "BCN",
+                "EIN",
+                "TSF",
+                "TFS",
+                "PSA",
+                "CIA",
+                "PFO",
+                "RJK"
+			]
+        },
+        {
+            "iataCode": "BRE",
+            "routes": [
+                "GRO",
+                "LPA",
+                "MAN",
+                "BGY",
+                "MAD",
+                "PMI",
+                "AGP",
+                "NYO",
+                "FUE",
+                "TLL",
+                "DUB",
+                "STN",
+                "OPO",
+                "CHQ",
+                "EDI",
+                "RIX",
+                "TMP",
+                "ALC",
+                "LIS",
+                "FAO",
+                "SKG",
+                "TSF",
+                "TFS",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "OPO",
+            "routes": [
+                "VLC",
+                "MRS",
+                "HHN",
+                "BLQ",
+                "XCR",
+                "LPL",
+                "CFE",
+                "DLE",
+                "CRL",
+                "DTM",
+                "LPA",
+                "WMI",
+                "BGY",
+                "MAD",
+                "BVA",
+                "PMI",
+                "CGN",
+                "TUF",
+                "FMM",
+                "CCF",
+                "EBU",
+                "PDL",
+                "DUB",
+                "STN",
+                "LRT",
+                "NRN",
+                "BRU",
+                "SXF",
+                "LRH",
+                "SXB",
+                "CPH",
+                "BRE",
+                "LIS",
+                "HAM",
+                "FAO",
+                "LIL",
+                "BCN",
+                "EIN",
+                "TFS",
+                "FKB",
+                "CIA",
+                "BOD"
+			]
+        },
+        {
+            "iataCode": "DUB",
+            "routes": [
+                "LTN",
+                "KRK",
+                "CRL",
+                "VGO",
+                "LCJ",
+                "PMI",
+                "TUF",
+                "CCF",
+                "STN",
+                "KTW",
+                "BRU",
+                "BRS",
+                "ZAD",
+                "GLA",
+                "RAK",
+                "BRI",
+                "BRE",
+                "LUZ",
+                "PMO",
+                "LEI",
+                "BCN",
+                "EIN",
+                "KUN",
+                "SDR",
+                "TFS",
+                "BSL",
+                "HHN",
+                "BLQ",
+                "LPL",
+                "NTE",
+                "LPA",
+                "MAN",
+                "NCL",
+                "NCE",
+                "MAD",
+                "SOF",
+                "FUE",
+                "LBA",
+                "EDI",
+                "LRH",
+                "CPH",
+                "ALC",
+                "TSF",
+                "AMS",
+                "BOD",
+                "TRN",
+                "GRO",
+                "SZG",
+                "CIY",
+                "BGY",
+                "AGP",
+                "BIQ",
+                "RYG",
+                "SZZ",
+                "TLL",
+                "WRO",
+                "BHX",
+                "OTP",
+                "RIX",
+                "RZE",
+                "FAO",
+                "BZG",
+                "GDN",
+                "VLC",
+                "SVQ",
+                "BTS",
+                "POZ",
+                "GNB",
+                "LGW",
+                "WMI",
+                "BVA",
+                "CGN",
+                "RDZ",
+                "FMM",
+                "ACE",
+                "IBZ",
+                "MJV",
+                "CWL",
+                "BUD",
+                "OPO",
+                "CHQ",
+                "PRG",
+                "SXF",
+                "REU",
+                "MLA",
+                "ATH",
+                "LIS",
+                "HAM",
+                "LIL",
+                "PSA",
+                "CIA",
+                "EMA",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "BDS",
+            "routes": [
+                "STN",
+                "BLQ",
+                "CRL",
+                "MAN",
+                "BGY",
+                "FCO",
+                "BVA",
+                "EIN",
+                "TSF",
+                "NYO",
+                "PSA",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "PGF",
+            "routes": [
+                "STN",
+                "CRL",
+                "BHX"
+			]
+        },
+        {
+            "iataCode": "LTN",
+            "routes": [
+                "GRO",
+                "FNI",
+                "BTS",
+                "MLA",
+                "RZE",
+                "LPA",
+                "CPH",
+                "RAK",
+                "BZR",
+                "KIR",
+                "ACE",
+                "KUN",
+                "TFS",
+                "NOC",
+                "MJV",
+                "VNO",
+                "FUE",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "RYG",
+            "routes": [
+                "KRK",
+                "CRL",
+                "LPA",
+                "POZ",
+                "MAN",
+                "WMI",
+                "BGY",
+                "PMI",
+                "AGP",
+                "IBZ",
+                "SZZ",
+                "TLL",
+                "WRO",
+                "DUB",
+                "STN",
+                "CHQ",
+                "EDI",
+                "RIX",
+                "MLA",
+                "ZAD",
+                "RZE",
+                "BZR",
+                "ALC",
+                "PUY",
+                "FAO",
+                "SKG",
+                "KUN",
+                "TFS",
+                "VNO",
+                "RJK",
+                "GDN"
+			]
+        },
+        {
+            "iataCode": "PDV",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "LIG",
+            "routes": [
+                "STN",
+                "LBA",
+                "LPL",
+                "BRS",
+                "EMA",
+                "MAN"
+			]
+        },
+        {
+            "iataCode": "BRS",
+            "routes": [
+                "BLQ",
+                "GRO",
+                "KRK",
+                "LPA",
+                "POZ",
+                "WMI",
+                "BGY",
+                "PMI",
+                "AGP",
+                "LIG",
+                "ACE",
+                "EGC",
+                "IBZ",
+                "WRO",
+                "DUB",
+                "BUD",
+                "CHQ",
+                "REU",
+                "MLA",
+                "RZE",
+                "BZR",
+                "ALC",
+                "FAO",
+                "TSF",
+                "KUN",
+                "TFS",
+                "NOC",
+                "BOD",
+                "CDT",
+                "GDN"
+			]
+        },
+        {
+            "iataCode": "BRQ",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "FEZ",
+            "routes": [
+                "STN",
+                "HHN",
+                "MRS",
+                "NRN",
+                "FNI",
+                "NTE",
+                "DLE",
+                "CRL",
+                "BGY",
+                "MAD",
+                "BCN",
+                "BVA",
+                "EIN",
+                "PSA",
+                "TLS",
+                "EBU"
+			]
+        },
+        {
+            "iataCode": "SCQ",
+            "routes": [
+                "VLC",
+                "STN",
+                "HHN",
+                "SVQ",
+                "LPA",
+                "ALC",
+                "BGY",
+                "MAD",
+                "BCN",
+                "PMI",
+                "AGP",
+                "ACE",
+                "TFS"
+			]
+        },
+        {
+            "iataCode": "SUF",
+            "routes": [
+                "STN",
+                "HHN",
+                "NRN",
+                "BLQ",
+                "CRL",
+                "BGY",
+                "FCO",
+                "TSF",
+                "FKB",
+                "PSA"
+			]
+        },
+        {
+            "iataCode": "NQY",
+            "routes": [
+                "HHN",
+                "ALC"
+			]
+        },
+        {
+            "iataCode": "MPL",
+            "routes": [
+                "CRL",
+                "HHN",
+                "LBA"
+			]
+        },
+        {
+            "iataCode": "SVQ",
+            "routes": [
+                "MRS",
+                "BLQ",
+                "LPA",
+                "CRL",
+                "LGW",
+                "BGY",
+                "FCO",
+                "BVA",
+                "PMI",
+                "ACE",
+                "DUB",
+                "STN",
+                "MXP",
+                "SCQ",
+                "SXF",
+                "RAK",
+                "BCN",
+                "EIN",
+                "TFS",
+                "PSA",
+                "BOD"
+			]
+        },
+        {
+            "iataCode": "TFN",
+            "routes": [
+                "BCN",
+                "MAD"
+			]
+        },
+        {
+            "iataCode": "KIR",
+            "routes": [
+                "STN",
+                "HHN",
+                "LTN",
+                "ALC",
+                "FAO"
+			]
+        },
+        {
+            "iataCode": "SZZ",
+            "routes": [
+                "STN",
+                "LPL",
+                "DUB",
+                "RYG"
+			]
+        },
+        {
+            "iataCode": "KUN",
+            "routes": [
+                "STN",
+                "EDI",
+                "LTN",
+                "BRS",
+                "MLA",
+                "CPH",
+                "LGW",
+                "KGS",
+                "ALC",
+                "PMI",
+                "RYG",
+                "PFO",
+                "RHO",
+                "TPS",
+                "SNN",
+                "VDA",
+                "DUB",
+                "BHX"
+			]
+        },
+        {
+            "iataCode": "RDZ",
+            "routes": [
+                "CRL",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "CWL",
+            "routes": [
+                "TFS",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "PFO",
+            "routes": [
+                "STN",
+                "CHQ",
+                "KRK",
+                "CRL",
+                "ATH",
+                "SKG",
+                "NYO",
+                "KUN",
+                "CIA"
+			]
+        },
+        {
+            "iataCode": "LCJ",
+            "routes": [
+                "STN",
+                "EMA",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "LDY",
+            "routes": [
+                "STN",
+                "GLA",
+                "LPL",
+                "FAO"
+			]
+        },
+        {
+            "iataCode": "CFE",
+            "routes": [
+                "OPO"
+			]
+        },
+        {
+            "iataCode": "PLQ",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "BLL",
+            "routes": [
+                "STN",
+                "GRO",
+                "MLA",
+                "ALC",
+                "BGY",
+                "PMI",
+                "AGP",
+                "PSA",
+                "CIA",
+                "BUD"
+			]
+        },
+        {
+            "iataCode": "XCR",
+            "routes": [
+                "OPO",
+                "RAK"
+			]
+        },
+        {
+            "iataCode": "LBA",
+            "routes": [
+                "KRK",
+                "PMI",
+                "AGP",
+                "LIG",
+                "ACE",
+                "IBZ",
+                "MJV",
+                "FUE",
+                "DUB",
+                "CFU",
+                "CHQ",
+                "MPL",
+                "RIX",
+                "MLA",
+                "ALC",
+                "FAO",
+                "TSF",
+                "TFS",
+                "PSA",
+                "GDN"
+			]
+        },
+        {
+            "iataCode": "POZ",
+            "routes": [
+                "STN",
+                "EDI",
+                "LPL",
+                "BRS",
+                "GRO",
+                "MLA",
+                "RYG",
+                "CIA",
+                "DUB",
+                "CFU"
+			]
+        },
+        {
+            "iataCode": "OUD",
+            "routes": [
+                "BVA",
+                "CRL",
+                "MRS",
+                "NRN"
+			]
+        },
+        {
+            "iataCode": "EDI",
+            "routes": [
+                "HHN",
+                "MRS",
+                "BLQ",
+                "KRK",
+                "BTS",
+                "CRL",
+                "LPA",
+                "POZ",
+                "GOT",
+                "PMI",
+                "AGP",
+                "ACE",
+                "RYG",
+                "FUE",
+                "DUB",
+                "CFU",
+                "STN",
+                "NRN",
+                "MLA",
+                "CPH",
+                "BZR",
+                "PIS",
+                "ALC",
+                "BRE",
+                "FAO",
+                "BCN",
+                "KUN",
+                "SDR",
+                "TFS",
+                "PSA",
+                "CIA",
+                "BOD",
+                "GDN"
+			]
+        },
+        {
+            "iataCode": "CHQ",
+            "routes": [
+                "HHN",
+                "MRS",
+                "BLQ",
+                "CRL",
+                "MAN",
+                "WMI",
+                "BGY",
+                "FCO",
+                "FMM",
+                "NYO",
+                "RYG",
+                "WRO",
+                "DUB",
+                "STN",
+                "KTW",
+                "LBA",
+                "NRN",
+                "BRS",
+                "GLA",
+                "BRE",
+                "ATH",
+                "SKG",
+                "EIN",
+                "TSF",
+                "PSA",
+                "EMA",
+                "PFO",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "TRF",
+            "routes": [
+                "STN",
+                "AGP",
+                "LPL",
+                "ALC"
+			]
+        },
+        {
+            "iataCode": "VNO",
+            "routes": [
+                "STN",
+                "HHN",
+                "CHQ",
+                "LPL",
+                "LTN",
+                "SXF",
+                "CRL",
+                "BRE",
+                "BGY",
+                "MAD",
+                "BCN",
+                "BVA",
+                "RYG",
+                "CIA",
+                "DUB",
+                "BHX"
+			]
+        },
+        {
+            "iataCode": "KTW",
+            "routes": [
+                "STN",
+                "CHQ",
+                "DUB",
+                "BHX",
+                "CFU"
+			]
+        },
+        {
+            "iataCode": "TGD",
+            "routes": [
+                "CRL",
+                "STN"
+			]
+        },
+        {
+            "iataCode": "PRG",
+            "routes": [
+                "STN",
+                "CRL",
+                "CIA",
+                "BGY",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "CCF",
+            "routes": [
+                "STN",
+                "OPO",
+                "LPL",
+                "ORK",
+                "CRL",
+                "GLA",
+                "EMA",
+                "MAN",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "STR",
+            "routes": [
+                "MAN"
+			]
+        },
+        {
+            "iataCode": "TLS",
+            "routes": [
+                "STN",
+                "SXF",
+                "MLA",
+                "CRL",
+                "FEZ",
+                "WMI",
+                "MAD"
+			]
+        },
+        {
+            "iataCode": "BVA",
+            "routes": [
+                "GRO",
+                "KRK",
+                "BGY",
+                "PSR",
+                "PMI",
+                "AGP",
+                "NYO",
+                "WRO",
+                "DUB",
+                "TNG",
+                "ZAD",
+                "RAK",
+                "BRI",
+                "BZR",
+                "FAO",
+                "PMO",
+                "SKG",
+                "BCN",
+                "TFS",
+                "OUD",
+                "FSC",
+                "ZAZ",
+                "RBA",
+                "VLC",
+                "SVQ",
+                "BLQ",
+                "BTS",
+                "MAN",
+                "WMI",
+                "MAD",
+                "ACE",
+                "NDR",
+                "SNN",
+                "BUD",
+                "BDS",
+                "OPO",
+                "FEZ",
+                "ALC",
+                "LIS",
+                "CAG",
+                "TSF",
+                "PSA",
+                "CIA",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "ZAZ",
+            "routes": [
+                "BVA",
+                "STN",
+                "CRL",
+                "BGY"
+			]
+        },
+        {
+            "iataCode": "CPH",
+            "routes": [
+                "OPO",
+                "EDI",
+                "BLQ",
+                "LTN",
+                "CRL",
+                "ALC",
+                "BGY",
+                "MAD",
+                "AGP",
+                "CGN",
+                "NYO",
+                "KUN",
+                "TFS",
+                "CIA",
+                "BUD",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "TLL",
+            "routes": [
+                "STN",
+                "NRN",
+                "GRO",
+                "RYG",
+                "BRE",
+                "BGY",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "PEG",
+            "routes": [
+                "CRL",
+                "STN",
+                "TPS"
+			]
+        },
+        {
+            "iataCode": "SZG",
+            "routes": [
+                "STN",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "GNB",
+            "routes": [
+                "STN",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "GRO",
+            "routes": [
+                "HHN",
+                "ORK",
+                "LTN",
+                "KRK",
+                "BTS",
+                "BLL",
+                "CRL",
+                "POZ",
+                "MAN",
+                "PSR",
+                "BVA",
+                "MST",
+                "PMI",
+                "FMM",
+                "TPS",
+                "WRO",
+                "TLL",
+                "DUB",
+                "STN",
+                "NRN",
+                "AHO",
+                "BRS",
+                "MLA",
+                "RAK",
+                "BRE",
+                "SKG",
+                "CAG",
+                "EIN",
+                "NOC",
+                "FKB",
+                "PSA",
+                "BOH",
+                "RBA"
+			]
+        },
+        {
+            "iataCode": "CDT",
+            "routes": [
+                "STN",
+                "BRS"
+			]
+        },
+        {
+            "iataCode": "EMA",
+            "routes": [
+                "VLC",
+                "KRK",
+                "LPA",
+                "LCJ",
+                "WMI",
+                "BGY",
+                "MAH",
+                "PMI",
+                "AGP",
+                "LIG",
+                "CCF",
+                "ACE",
+                "IBZ",
+                "EGC",
+                "MJV",
+                "RHO",
+                "FUE",
+                "WRO",
+                "DUB",
+                "CFU",
+                "CHQ",
+                "DNR",
+                "RIX",
+                "SXF",
+                "MLA",
+                "RZE",
+                "ALC",
+                "FAO",
+                "BCN",
+                "TSF",
+                "TFS",
+                "NOC",
+                "PSA",
+                "CIA"
+			]
+        },
+        {
+            "iataCode": "RZE",
+            "routes": [
+                "STN",
+                "LTN",
+                "BRS",
+                "SXF",
+                "RYG",
+                "EMA",
+                "MAN",
+                "DUB",
+                "CFU"
+			]
+        },
+        {
+            "iataCode": "RAK",
+            "routes": [
+                "STN",
+                "SVQ",
+                "MRS",
+                "HHN",
+                "NRN",
+                "XCR",
+                "LTN",
+                "GRO",
+                "DLE",
+                "CRL",
+                "BGY",
+                "MAD",
+                "BVA",
+                "BCN",
+                "EIN",
+                "TUF",
+                "PSA",
+                "CIA",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "TSF",
+            "routes": [
+                "VLC",
+                "HHN",
+                "CRL",
+                "BVA",
+                "AGP",
+                "NYO",
+                "IBZ",
+                "TPS",
+                "WRO",
+                "DUB",
+                "BUD",
+                "BDS",
+                "CFU",
+                "STN",
+                "LBA",
+                "CHQ",
+                "AHO",
+                "BRU",
+                "BRS",
+                "SXF",
+                "MLA",
+                "BRI",
+                "BRE",
+                "PMO",
+                "CTA",
+                "BCN",
+                "CAG",
+                "EIN",
+                "SUF",
+                "TFS",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "REU",
+            "routes": [
+                "STN",
+                "HHN",
+                "EIN",
+                "LPL",
+                "ORK",
+                "BRS",
+                "CRL",
+                "DUB",
+                "PIK"
+			]
+        },
+        {
+            "iataCode": "LIL",
+            "routes": [
+                "MRS",
+                "OPO",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "BCN",
+            "routes": [
+                "VGO",
+                "BGY",
+                "PMI",
+                "AGP",
+                "NYO",
+                "DUB",
+                "BHX",
+                "STN",
+                "BRU",
+                "SCQ",
+                "RAK",
+                "TFS",
+                "SDR",
+                "TFN",
+                "SVQ",
+                "BLQ",
+                "LPL",
+                "LPA",
+                "MAN",
+                "WMI",
+                "MAH",
+                "FCO",
+                "BVA",
+                "SOF",
+                "CGN",
+                "ACE",
+                "IBZ",
+                "NDR",
+                "FUE",
+                "VLL",
+                "BUD",
+                "OPO",
+                "EDI",
+                "SXF",
+                "FEZ",
+                "HAM",
+                "PIK",
+                "TSF",
+                "XRY",
+                "EMA",
+                "VNO",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "CUF",
+            "routes": [
+                "CAG",
+                "TPS",
+                "AHO"
+			]
+        },
+        {
+            "iataCode": "BRI",
+            "routes": [
+                "VLC",
+                "HHN",
+                "BLQ",
+                "CRL",
+                "BGY",
+                "FCO",
+                "BVA",
+                "MST",
+                "GOA",
+                "DUB",
+                "STN",
+                "NRN",
+                "SXF",
+                "MLA",
+                "CAG",
+                "TSF",
+                "FKB",
+                "PSA",
+                "TRS",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "JTR",
+            "routes": [
+                "ATH"
+			]
+        },
+        {
+            "iataCode": "BGY",
+            "routes": [
+                "LDE",
+                "EFL",
+                "CRV",
+                "ORK",
+                "KRK",
+                "CRL",
+                "CIY",
+                "TSR",
+                "PSR",
+                "PMI",
+                "AGP",
+                "NYO",
+                "RYG",
+                "RHO",
+                "TLL",
+                "WRO",
+                "DUB",
+                "STN",
+                "OTP",
+                "NRN",
+                "AHO",
+                "BRS",
+                "SCQ",
+                "RIX",
+                "RAK",
+                "BRI",
+                "BRE",
+                "PMO",
+                "SKG",
+                "CTA",
+                "BCN",
+                "EIN",
+                "SUF",
+                "TFS",
+                "SDR",
+                "ZAZ",
+                "GDN",
+                "VLC",
+                "HHN",
+                "SVQ",
+                "BTS",
+                "BLL",
+                "LPA",
+                "MAN",
+                "WMI",
+                "MAD",
+                "BVA",
+                "GOT",
+                "CGN",
+                "ACE",
+                "IBZ",
+                "NUE",
+                "TPS",
+                "FUE",
+                "BDS",
+                "BUD",
+                "CFU",
+                "OPO",
+                "CHQ",
+                "PRG",
+                "SXF",
+                "MLA",
+                "FEZ",
+                "CPH",
+                "KGS",
+                "ALC",
+                "ATH",
+                "LIS",
+                "HAM",
+                "CAG",
+                "NOC",
+                "EMA",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "FCO",
+            "routes": [
+                "SVQ",
+                "MRS",
+                "CRV",
+                "CIY",
+                "AGP",
+                "ACE",
+                "TPS",
+                "SNN",
+                "BDS",
+                "CFU",
+                "CHQ",
+                "BRU",
+                "MLA",
+                "BRI",
+                "KGS",
+                "ALC",
+                "PMO",
+                "CTA",
+                "BCN",
+                "SUF"
+			]
+        },
+        {
+            "iataCode": "FKB",
+            "routes": [
+                "STN",
+                "OPO",
+                "GRO",
+                "MLA",
+                "ZAD",
+                "BRI",
+                "ALC",
+                "SKG",
+                "PMI",
+                "AGP",
+                "SUF",
+                "TFS",
+                "CIA",
+                "TPS"
+			]
+        },
+        {
+            "iataCode": "RBA",
+            "routes": [
+                "BVA",
+                "STN",
+                "MRS",
+                "GRO",
+                "CRL",
+                "CIA",
+                "MAD"
+			]
+        },
+        {
+            "iataCode": "LIS",
+            "routes": [
+                "STN",
+                "HHN",
+                "OPO",
+                "MRS",
+                "BRU",
+                "SXF",
+                "MAN",
+                "BRE",
+                "WMI",
+                "HAM",
+                "BGY",
+                "BVA",
+                "EIN",
+                "PSA",
+                "CIA",
+                "PDL",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "IBZ",
+            "routes": [
+                "VLC",
+                "HHN",
+                "MRS",
+                "BLQ",
+                "LPL",
+                "CRL",
+                "MAN",
+                "BGY",
+                "MAD",
+                "AGP",
+                "RYG",
+                "DUB",
+                "BHX",
+                "STN",
+                "LBA",
+                "NRN",
+                "BRU",
+                "BRS",
+                "PIK",
+                "BCN",
+                "EIN",
+                "TSF",
+                "PSA",
+                "CIA",
+                "EMA",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "LNZ",
+            "routes": [
+                "STN",
+                "TFS"
+			]
+        },
+        {
+            "iataCode": "SXB",
+            "routes": [
+                "OPO"
+			]
+        },
+        {
+            "iataCode": "EIN",
+            "routes": [
+                "MRS",
+                "SVQ",
+                "KRK",
+                "GRO",
+                "LPA",
+                "MAN",
+                "WMI",
+                "BGY",
+                "MAD",
+                "PMI",
+                "AGP",
+                "ACE",
+                "NYO",
+                "IBZ",
+                "MJV",
+                "TPS",
+                "BDS",
+                "DUB",
+                "CFU",
+                "STN",
+                "OPO",
+                "CHQ",
+                "AHO",
+                "REU",
+                "MLA",
+                "FEZ",
+                "RAK",
+                "ALC",
+                "LIS",
+                "FAO",
+                "CTA",
+                "TSF",
+                "TFS",
+                "PSA",
+                "CIA",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "GOT",
+            "routes": [
+                "STN",
+                "EDI",
+                "ZAD",
+                "ALC",
+                "WMI",
+                "BGY",
+                "PMI",
+                "AGP",
+                "PSA",
+                "CIA"
+			]
+        },
+        {
+            "iataCode": "PMI",
+            "routes": [
+                "ORK",
+                "GRO",
+                "KRK",
+                "DTM",
+                "CRL",
+                "BGY",
+                "AGP",
+                "NYO",
+                "RYG",
+                "DUB",
+                "BHX",
+                "STN",
+                "NRN",
+                "BRU",
+                "BRS",
+                "SCQ",
+                "BRE",
+                "BCN",
+                "EIN",
+                "KUN",
+                "FKB",
+                "VLC",
+                "HHN",
+                "MRS",
+                "SVQ",
+                "BLQ",
+                "LPL",
+                "BTS",
+                "BLL",
+                "MAN",
+                "WMI",
+                "MAD",
+                "BVA",
+                "GOT",
+                "CGN",
+                "FMM",
+                "SNN",
+                "OPO",
+                "LBA",
+                "EDI",
+                "SXF",
+                "HAM",
+                "PIK",
+                "BOH",
+                "CIA",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "PIS",
+            "routes": [
+                "STN",
+                "EDI"
+			]
+        },
+        {
+            "iataCode": "VXO",
+            "routes": [
+                "NRN",
+                "ALC"
+			]
+        },
+        {
+            "iataCode": "LPA",
+            "routes": [
+                "VLC",
+                "HHN",
+                "SVQ",
+                "BLQ",
+                "LPL",
+                "ORK",
+                "LTN",
+                "KRK",
+                "CRL",
+                "MAN",
+                "WMI",
+                "BGY",
+                "MAD",
+                "CGN",
+                "NYO",
+                "RYG",
+                "DUB",
+                "BUD",
+                "BHX",
+                "STN",
+                "OPO",
+                "NRN",
+                "EDI",
+                "MXP",
+                "BRS",
+                "SCQ",
+                "SXF",
+                "BRE",
+                "HAM",
+                "PIK",
+                "BCN",
+                "EIN",
+                "PSA",
+                "BOH",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "VLL",
+            "routes": [
+                "BCN",
+                "ACE"
+			]
+        },
+        {
+            "iataCode": "MRS",
+            "routes": [
+                "SVQ",
+                "NTE",
+                "CRL",
+                "FCO",
+                "MAD",
+                "PMI",
+                "AGP",
+                "TUF",
+                "IBZ",
+                "NDR",
+                "STN",
+                "TNG",
+                "OPO",
+                "CHQ",
+                "EDI",
+                "MLA",
+                "ZAD",
+                "FEZ",
+                "RAK",
+                "LIS",
+                "PMO",
+                "LIL",
+                "BES",
+                "CTA",
+                "EIN",
+                "OUD",
+                "RBA"
+			]
+        },
+        {
+            "iataCode": "MST",
+            "routes": [
+                "BRI",
+                "ALC",
+                "GRO"
+			]
+        },
+        {
+            "iataCode": "LCA",
+            "routes": [
+                "BRU"
+			]
+        },
+        {
+            "iataCode": "TNG",
+            "routes": [
+                "BVA",
+                "CRL",
+                "MRS",
+                "MAD"
+			]
+        },
+        {
+            "iataCode": "MAH",
+            "routes": [
+                "VLC",
+                "BCN",
+                "EMA",
+                "MAD"
+			]
+        },
+        {
+            "iataCode": "MAD",
+            "routes": [
+                "KRK",
+                "CRL",
+                "BGY",
+                "PMI",
+                "TLS",
+                "DUB",
+                "BHX",
+                "STN",
+                "TNG",
+                "OTP",
+                "AHO",
+                "BRU",
+                "SCQ",
+                "RAK",
+                "BRE",
+                "PMO",
+                "CTA",
+                "EIN",
+                "TFS",
+                "TFN",
+                "RBA",
+                "MRS",
+                "BLQ",
+                "BTS",
+                "LPA",
+                "MAN",
+                "WMI",
+                "MAH",
+                "BVA",
+                "SOF",
+                "CGN",
+                "ACE",
+                "IBZ",
+                "FUE",
+                "BUD",
+                "OPO",
+                "SXF",
+                "MLA",
+                "CPH",
+                "FEZ",
+                "HAM",
+                "PSA",
+                "CIA",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "GDN",
+            "routes": [
+                "STN",
+                "LBA",
+                "EDI",
+                "ORK",
+                "BRS",
+                "KRK",
+                "MLA",
+                "MAN",
+                "ALC",
+                "WMI",
+                "BGY",
+                "RYG",
+                "PSA",
+                "CIA",
+                "DUB",
+                "BHX"
+			]
+        },
+        {
+            "iataCode": "NCE",
+            "routes": [
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "CAG",
+            "routes": [
+                "HHN",
+                "NRN",
+                "BLQ",
+                "GRO",
+                "KRK",
+                "CRL",
+                "BRI",
+                "BGY",
+                "BVA",
+                "PMF",
+                "TSF",
+                "PSA",
+                "CIA",
+                "TPS",
+                "CUF"
+			]
+        },
+        {
+            "iataCode": "NOC",
+            "routes": [
+                "STN",
+                "LPL",
+                "LTN",
+                "BRS",
+                "GRO",
+                "ALC",
+                "BGY",
+                "FAO",
+                "AGP",
+                "ACE",
+                "TFS",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "BZR",
+            "routes": [
+                "BVA",
+                "NRN",
+                "EDI",
+                "LTN",
+                "BRS",
+                "NYO",
+                "RYG",
+                "MAN"
+			]
+        },
+        {
+            "iataCode": "TUF",
+            "routes": [
+                "STN",
+                "OPO",
+                "MRS",
+                "RAK",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "STN",
+            "routes": [
+                "LDE",
+                "EFL",
+                "KRK",
+                "DTM",
+                "LCJ",
+                "TSR",
+                "PMI",
+                "PMF",
+                "TUF",
+                "CCF",
+                "NYO",
+                "EGC",
+                "LDY",
+                "AOI",
+                "PLQ",
+                "DUB",
+                "KTW",
+                "MXP",
+                "SCQ",
+                "BRQ",
+                "ZAD",
+                "RAK",
+                "GLA",
+                "BRI",
+                "BRE",
+                "LEJ",
+                "LUZ",
+                "PMO",
+                "LEI",
+                "BCN",
+                "EIN",
+                "SUF",
+                "KUN",
+                "TFS",
+                "SDR",
+                "FKB",
+                "BSL",
+                "CDT",
+                "ZAZ",
+                "RBA",
+                "MRS",
+                "HHN",
+                "BLQ",
+                "BLL",
+                "LPA",
+                "VST",
+                "PGF",
+                "MAD",
+                "SOF",
+                "NUE",
+                "EBU",
+                "FUE",
+                "SNN",
+                "EDI",
+                "TRF",
+                "LRH",
+                "FEZ",
+                "PIS",
+                "ALC",
+                "TSF",
+                "BOD",
+                "TRS",
+                "TRN",
+                "ORK",
+                "GRO",
+                "SZG",
+                "CIY",
+                "KIR",
+                "BGY",
+                "PSR",
+                "OSR",
+                "AGP",
+                "BIQ",
+                "OSI",
+                "PDV",
+                "RYG",
+                "TLS",
+                "RHO",
+                "PDL",
+                "SZZ",
+                "TLL",
+                "WRO",
+                "OTP",
+                "NRN",
+                "AHO",
+                "DNR",
+                "RIX",
+                "RZE",
+                "FAO",
+                "PUY",
+                "PEG",
+                "BZG",
+                "SKG",
+                "DOL",
+                "PFO",
+                "LNZ",
+                "RJK",
+                "GDN",
+                "VRN",
+                "VLC",
+                "SVQ",
+                "BTS",
+                "POZ",
+                "GNB",
+                "WMI",
+                "TGD",
+                "AAR",
+                "GOT",
+                "CGN",
+                "LIG",
+                "FMM",
+                "ACE",
+                "IBZ",
+                "MJV",
+                "GOA",
+                "BDS",
+                "BUD",
+                "CFU",
+                "OPO",
+                "CHQ",
+                "PRG",
+                "SXF",
+                "REU",
+                "MLA",
+                "HAU",
+                "KGS",
+                "ATH",
+                "LIS",
+                "HAM",
+                "BVE",
+                "NOC",
+                "XRY",
+                "PSA",
+                "CIA",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "SOF",
+            "routes": [
+                "STN",
+                "MXP",
+                "SXF",
+                "CRL",
+                "ATH",
+                "HAM",
+                "MAD",
+                "BCN",
+                "CGN",
+                "PSA",
+                "CIA",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "SXF",
+            "routes": [
+                "TSR",
+                "BGY",
+                "PMI",
+                "AGP",
+                "TLS",
+                "DUB",
+                "STN",
+                "BRU",
+                "RIX",
+                "RZE",
+                "ZAD",
+                "GLA",
+                "BRI",
+                "PMO",
+                "SKG",
+                "BCN",
+                "TFS",
+                "VLC",
+                "SVQ",
+                "BLQ",
+                "BTS",
+                "LPA",
+                "MAN",
+                "MAD",
+                "SOF",
+                "CGN",
+                "ACE",
+                "FUE",
+                "SNN",
+                "BUD",
+                "OPO",
+                "MLA",
+                "ALC",
+                "ATH",
+                "LIS",
+                "TSF",
+                "PSA",
+                "CIA",
+                "EMA",
+                "VNO",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "LEJ",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "BHX",
+            "routes": [
+                "KRK",
+                "BTS",
+                "LPA",
+                "PGF",
+                "MAD",
+                "PMI",
+                "AGP",
+                "ACE",
+                "IBZ",
+                "MJV",
+                "FUE",
+                "DUB",
+                "CFU",
+                "KTW",
+                "MLA",
+                "ALC",
+                "FAO",
+                "BZG",
+                "BCN",
+                "KUN",
+                "TFS",
+                "VNO",
+                "GDN",
+                "VRN"
+			]
+        },
+        {
+            "iataCode": "MJV",
+            "routes": [
+                "STN",
+                "LBA",
+                "EIN",
+                "LTN",
+                "BOH",
+                "EMA",
+                "MAN",
+                "DUB",
+                "BHX",
+                "PIK"
+			]
+        },
+        {
+            "iataCode": "BUD",
+            "routes": [
+                "BLL",
+                "CRL",
+                "LPA",
+                "MAN",
+                "BGY",
+                "MAD",
+                "BVA",
+                "AGP",
+                "NUE",
+                "VDA",
+                "DUB",
+                "CFU",
+                "STN",
+                "BRS",
+                "SXF",
+                "MLA",
+                "CPH",
+                "TMP",
+                "ATH",
+                "BCN",
+                "TSF",
+                "PSA",
+                "CIA"
+			]
+        },
+        {
+            "iataCode": "EGC",
+            "routes": [
+                "STN",
+                "LPL",
+                "BRS",
+                "CRL",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "BOH",
+            "routes": [
+                "GRO",
+                "MLA",
+                "LPA",
+                "ALC",
+                "FAO",
+                "PMI",
+                "AGP",
+                "TFS",
+                "MJV"
+			]
+        },
+        {
+            "iataCode": "PUY",
+            "routes": [
+                "STN",
+                "HHN",
+                "RYG",
+                "CRL"
+			]
+        },
+        {
+            "iataCode": "LUZ",
+            "routes": [
+                "STN",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "VDA",
+            "routes": [
+                "KRK",
+                "KUN",
+                "BTS",
+                "BUD"
+			]
+        },
+        {
+            "iataCode": "ALC",
+            "routes": [
+                "VXO",
+                "ORK",
+                "KRK",
+                "CRL",
+                "KIR",
+                "BGY",
+                "NYO",
+                "RYG",
+                "WRO",
+                "DUB",
+                "BHX",
+                "STN",
+                "NRN",
+                "BRU",
+                "BRS",
+                "SCQ",
+                "BRE",
+                "NQY",
+                "EIN",
+                "KUN",
+                "FKB",
+                "GDN",
+                "HHN",
+                "BLQ",
+                "LPL",
+                "BLL",
+                "MAN",
+                "NCL",
+                "VST",
+                "WMI",
+                "FCO",
+                "BVA",
+                "MST",
+                "GOT",
+                "CGN",
+                "FMM",
+                "NUE",
+                "SNN",
+                "LBA",
+                "EDI",
+                "TRF",
+                "SXF",
+                "CPH",
+                "HAU",
+                "HAM",
+                "PIK",
+                "NOC",
+                "BOH",
+                "CIA",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "BIQ",
+            "routes": [
+                "STN",
+                "NYO",
+                "CRL",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "MLA",
+            "routes": [
+                "LTN",
+                "KRK",
+                "GRO",
+                "BGY",
+                "NYO",
+                "RYG",
+                "TLS",
+                "WRO",
+                "DUB",
+                "BHX",
+                "STN",
+                "NRN",
+                "BRU",
+                "BRS",
+                "BRI",
+                "EIN",
+                "KUN",
+                "FKB",
+                "GDN",
+                "MRS",
+                "BLQ",
+                "LPL",
+                "BLL",
+                "POZ",
+                "MAN",
+                "FCO",
+                "MAD",
+                "CGN",
+                "NUE",
+                "TPS",
+                "BUD",
+                "LBA",
+                "EDI",
+                "SXF",
+                "ATH",
+                "PIK",
+                "TSF",
+                "PSA",
+                "CIA",
+                "BOH",
+                "EMA",
+                "TRN"
+			]
+        },
+        {
+            "iataCode": "OSI",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "NTE",
+            "routes": [
+                "MRS",
+                "FEZ",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "PIK",
+            "routes": [
+                "REU",
+                "MLA",
+                "LPA",
+                "ALC",
+                "FAO",
+                "BCN",
+                "PMI",
+                "AGP",
+                "ACE",
+                "IBZ",
+                "TFS",
+                "PSA",
+                "CIA",
+                "MJV",
+                "FUE",
+                "CFU"
+			]
+        },
+        {
+            "iataCode": "PDL",
+            "routes": [
+                "STN",
+                "OPO",
+                "LIS"
+			]
+        },
+        {
+            "iataCode": "WRO",
+            "routes": [
+                "BLQ",
+                "ORK",
+                "LPL",
+                "GRO",
+                "WMI",
+                "BGY",
+                "BVA",
+                "AGP",
+                "RYG",
+                "SNN",
+                "DUB",
+                "STN",
+                "CHQ",
+                "BRS",
+                "MLA",
+                "GLA",
+                "ALC",
+                "TSF",
+                "TFS",
+                "CIA",
+                "EMA"
+			]
+        },
+        {
+            "iataCode": "NDR",
+            "routes": [
+                "BVA",
+                "BCN",
+                "HHN",
+                "MRS",
+                "CRL"
+			]
+        },
+        {
+            "iataCode": "GLA",
+            "routes": [
+                "STN",
+                "CHQ",
+                "RIX",
+                "SXF",
+                "WMI",
+                "BZG",
+                "CCF",
+                "LDY",
+                "WRO",
+                "DUB"
+			]
+        },
+        {
+            "iataCode": "KGS",
+            "routes": [
+                "STN",
+                "HHN",
+                "BLQ",
+                "LPL",
+                "KRK",
+                "BGY",
+                "FCO",
+                "KUN",
+                "PSA"
+			]
+        },
+        {
+            "iataCode": "VRN",
+            "routes": [
+                "STN",
+                "BRU",
+                "CRL",
+                "PMO",
+                "BHX"
+			]
+        },
+        {
+            "iataCode": "AHO",
+            "routes": [
+                "STN",
+                "HHN",
+                "BLQ",
+                "GRO",
+                "BTS",
+                "CRL",
+                "DTM",
+                "BGY",
+                "MAD",
+                "EIN",
+                "TSF",
+                "FMM",
+                "PSA",
+                "CIA",
+                "CUF"
+			]
+        },
+        {
+            "iataCode": "CRL",
+            "routes": [
+                "KRK",
+                "TSR",
+                "PMI",
+                "CCF",
+                "NYO",
+                "EGC",
+                "AOI",
+                "DUB",
+                "ZAD",
+                "RAK",
+                "BRI",
+                "LEI",
+                "SUF",
+                "TFS",
+                "SDR",
+                "ZAZ",
+                "RBA",
+                "MRS",
+                "BLQ",
+                "LPA",
+                "MAN",
+                "PGF",
+                "MAD",
+                "SOF",
+                "NDR",
+                "TPS",
+                "FUE",
+                "EDI",
+                "LRH",
+                "FEZ",
+                "CPH",
+                "ALC",
+                "CAG",
+                "TSF",
+                "BOD",
+                "TRN",
+                "GRO",
+                "CIY",
+                "BGY",
+                "PSR",
+                "AGP",
+                "BIQ",
+                "RYG",
+                "TLS",
+                "AGA",
+                "RHO",
+                "TNG",
+                "OTP",
+                "MPL",
+                "AHO",
+                "RIX",
+                "PUY",
+                "FAO",
+                "PEG",
+                "SKG",
+                "OUD",
+                "PFO",
+                "FSC",
+                "RJK",
+                "VRN",
+                "VLC",
+                "SVQ",
+                "BTS",
+                "WMI",
+                "TGD",
+                "RDZ",
+                "ACE",
+                "IBZ",
+                "BUD",
+                "BDS",
+                "CFU",
+                "OPO",
+                "CHQ",
+                "PRG",
+                "FNI",
+                "REU",
+                "ATH",
+                "PSA",
+                "CIA",
+                "VNO"
+			]
+        },
+        {
+            "iataCode": "FNI",
+            "routes": [
+                "CRL",
+                "FEZ",
+                "LPL",
+                "LTN"
+			]
+        },
+        {
+            "iataCode": "DOL",
+            "routes": [
+                "STN"
+			]
+        },
+        {
+            "iataCode": "XRY",
+            "routes": [
+                "BCN",
+                "STN",
+                "HHN"
+			]
+        },
+        {
+            "iataCode": "MAN",
+            "routes": [
+                "GRO",
+                "KRK",
+                "CRL",
+                "BGY",
+                "PMI",
+                "AGP",
+                "CCF",
+                "RYG",
+                "DUB",
+                "RIX",
+                "ZAD",
+                "RZE",
+                "BZR",
+                "BRE",
+                "FAO",
+                "BCN",
+                "EIN",
+                "TFS",
+                "GDN",
+                "STR",
+                "VLC",
+                "BLQ",
+                "BTS",
+                "LPA",
+                "WMI",
+                "MAD",
+                "BVA",
+                "LIG",
+                "ACE",
+                "IBZ",
+                "NUE",
+                "MJV",
+                "FUE",
+                "SNN",
+                "BUD",
+                "BDS",
+                "CFU",
+                "CHQ",
+                "SXF",
+                "MLA",
+                "ALC",
+                "LIS",
+                "HAM",
+                "CIA"
+			]
+        },
+        {
+            "iataCode": "EFL",
+            "routes": [
+                "STN",
+                "PSA",
+                "BGY"
+			]
+        },
+        {
+            "iataCode": "BZG",
+            "routes": [
+                "STN",
+                "NRN",
+                "GLA",
+                "DUB",
+                "BHX"
+			]
+        },
+        {
+            "iataCode": "WMI",
+            "routes": [
+                "BLQ",
+                "LPL",
+                "LPA",
+                "CRL",
+                "MAN",
+                "BGY",
+                "MAD",
+                "BVA",
+                "GOT",
+                "PMI",
+                "AGP",
+                "CGN",
+                "NYO",
+                "RYG",
+                "TLS",
+                "TPS",
+                "FUE",
+                "SNN",
+                "WRO",
+                "DUB",
+                "CFU",
+                "STN",
+                "OPO",
+                "CHQ",
+                "BRS",
+                "GLA",
+                "ALC",
+                "ATH",
+                "LIS",
+                "SKG",
+                "BCN",
+                "EIN",
+                "TFS",
+                "PSA",
+                "CIA",
+                "EMA",
+                "GDN"
+			]
+        },
+        {
+            "iataCode": "OTP",
+            "routes": [
+                "STN",
+                "BLQ",
+                "MXP",
+                "CRL",
+                "CIA",
+                "ATH",
+                "BGY",
+                "DUB",
+                "MAD"
+			]
+        }
+    ]
+}
