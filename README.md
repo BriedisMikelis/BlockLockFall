@@ -10,3 +10,14 @@ Algorythm http://www.vogella.com/tutorials/JavaAlgorithmsDijkstra/article.html
 Better algorythm http://stackoverflow.com/questions/16859624/find-the-shortest-path-in-a-graph-with-dynamic-weight
 
 Helpfull regex for country parsing ^.*"coordinates": \{[\s|\S]*?\},\n
+
+All currencies
+"CZK"
+"DKK"
+"EUR"
+"GBP"
+"HUF"
+"MAD"
+"NOK"
+"PLN"
+"SEK"
